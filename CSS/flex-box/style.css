@@ -1,0 +1,23 @@
+.flex-container {
+  height: 500px;
+  background-color: rgb(37, 37, 37);
+
+  display: flex;
+}
+
+.item {
+  height: 50px;
+  border-radius: 5px;
+}
+
+#item1 {
+  background-color: rgb(5, 161, 196);
+  width: 400px;
+}
+
+#item2 {
+  background-color: lightblue;
+}
+#item3 {
+  background-color: lightgreen;
+}

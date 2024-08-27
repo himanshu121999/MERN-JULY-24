@@ -1,0 +1,37 @@
+.static {
+  position: static;
+  background-color: lightblue;
+}
+.relative {
+  position: relative;
+  top: 10px;
+  left: 20px;
+  background-color: lightgreen;
+}
+.absolute {
+  position: absolute;
+  top: 50px;
+  left: 100px;
+  background-color: lightcoral;
+}
+.fixed {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  background-color: lightgoldenrodyellow;
+}
+.sticky {
+  position: sticky;
+  top: 100px;
+  background-color: lightsalmon;
+}
+.container {
+  height: 200px;
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+
+h1 {
+  border: 1px solid;
+  color: rgb(71, 165, 42);
+}
